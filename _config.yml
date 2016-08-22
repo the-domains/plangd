@@ -1,0 +1,14 @@
+layout_spectrum: 0.8541941859293729
+typography_spectrum: 0.03899663779884577
+color:
+  brandStrength: 0.1563003382179886
+  lightness: 0.023587639210745692
+  saturation: 0.09717569104395807
+  rhythmicContrast: 0.9449623159598559
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Plan.gd
